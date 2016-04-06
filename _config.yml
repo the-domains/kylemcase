@@ -1,7 +1,7 @@
 name: kylemcase
 favicon: null
-layout_spectrum: 0.292138779303059
-typography_spectrum: 0.20265201642178
+layout_spectrum: 0.27145
+typography_spectrum: 0.48885
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#03020a'
+    - '#b3edff'
+    - '#9f7bff'
+    - '#5b52ff'
+    - '#113498'
   brandStrength: 0.8955314254853874
   lightness: 0.3367241134401411
   saturation: 0.2304176890756935
